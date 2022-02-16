@@ -1,0 +1,10 @@
+Parris_Glendening_0002.jpg;Parris_Glendening_0001.jpg
+Pascal_Quignard_0003.jpg;Pascal_Quignard_0001.jpg
+Patrice_Chereau_0002.jpg;Patrice_Chereau_0001.jpg
+Paul_Greengrass_0001.jpg;Null
+Paul_Kariya_0001.jpg;Null
+Peter_Greenaway_0002.jpg;Peter_Greenaway_0001.jpg
+Phil_Gramm_0002.jpg;Phil_Gramm_0001.jpg
+Princess_Caroline_0004.jpg;Princess_Caroline_0001.jpg
+Princess_Elisabeth_0001.jpg;Princess_Elisabeth_0002.jpg
+Queen_Beatrix_0002.jpg;Queen_Beatrix_0001.jpg
